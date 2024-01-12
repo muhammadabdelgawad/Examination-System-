@@ -1,0 +1,29 @@
+F:\.Net C40\Mentor\4. C# Exam\ExaminationSystem Solution\ExaminationSystem\obj\Debug\net6.0\ExaminationSystem.csproj.AssemblyReference.cache
+F:\.Net C40\Mentor\4. C# Exam\ExaminationSystem Solution\ExaminationSystem\obj\Debug\net6.0\ExaminationSystem.GeneratedMSBuildEditorConfig.editorconfig
+F:\.Net C40\Mentor\4. C# Exam\ExaminationSystem Solution\ExaminationSystem\obj\Debug\net6.0\ExaminationSystem.AssemblyInfoInputs.cache
+F:\.Net C40\Mentor\4. C# Exam\ExaminationSystem Solution\ExaminationSystem\obj\Debug\net6.0\ExaminationSystem.AssemblyInfo.cs
+F:\.Net C40\Mentor\4. C# Exam\ExaminationSystem Solution\ExaminationSystem\obj\Debug\net6.0\ExaminationSystem.csproj.CoreCompileInputs.cache
+F:\.Net C40\Mentor\4. C# Exam\ExaminationSystem Solution\ExaminationSystem\bin\Debug\net6.0\ExaminationSystem.exe
+F:\.Net C40\Mentor\4. C# Exam\ExaminationSystem Solution\ExaminationSystem\bin\Debug\net6.0\ExaminationSystem.deps.json
+F:\.Net C40\Mentor\4. C# Exam\ExaminationSystem Solution\ExaminationSystem\bin\Debug\net6.0\ExaminationSystem.runtimeconfig.json
+F:\.Net C40\Mentor\4. C# Exam\ExaminationSystem Solution\ExaminationSystem\bin\Debug\net6.0\ExaminationSystem.dll
+F:\.Net C40\Mentor\4. C# Exam\ExaminationSystem Solution\ExaminationSystem\bin\Debug\net6.0\ExaminationSystem.pdb
+F:\.Net C40\Mentor\4. C# Exam\ExaminationSystem Solution\ExaminationSystem\obj\Debug\net6.0\ExaminationSystem.dll
+F:\.Net C40\Mentor\4. C# Exam\ExaminationSystem Solution\ExaminationSystem\obj\Debug\net6.0\refint\ExaminationSystem.dll
+F:\.Net C40\Mentor\4. C# Exam\ExaminationSystem Solution\ExaminationSystem\obj\Debug\net6.0\ExaminationSystem.pdb
+F:\.Net C40\Mentor\4. C# Exam\ExaminationSystem Solution\ExaminationSystem\obj\Debug\net6.0\ExaminationSystem.genruntimeconfig.cache
+F:\.Net C40\Mentor\4. C# Exam\ExaminationSystem Solution\ExaminationSystem\obj\Debug\net6.0\ref\ExaminationSystem.dll
+D:\Back-End\Route\Eng Aliaa Tarek\Workshops\Manar Maher\4. C# Exam\Data\ExaminationSystem Solution\ExaminationSystem\bin\Debug\net6.0\ExaminationSystem.exe
+D:\Back-End\Route\Eng Aliaa Tarek\Workshops\Manar Maher\4. C# Exam\Data\ExaminationSystem Solution\ExaminationSystem\bin\Debug\net6.0\ExaminationSystem.deps.json
+D:\Back-End\Route\Eng Aliaa Tarek\Workshops\Manar Maher\4. C# Exam\Data\ExaminationSystem Solution\ExaminationSystem\bin\Debug\net6.0\ExaminationSystem.runtimeconfig.json
+D:\Back-End\Route\Eng Aliaa Tarek\Workshops\Manar Maher\4. C# Exam\Data\ExaminationSystem Solution\ExaminationSystem\bin\Debug\net6.0\ExaminationSystem.dll
+D:\Back-End\Route\Eng Aliaa Tarek\Workshops\Manar Maher\4. C# Exam\Data\ExaminationSystem Solution\ExaminationSystem\bin\Debug\net6.0\ExaminationSystem.pdb
+D:\Back-End\Route\Eng Aliaa Tarek\Workshops\Manar Maher\4. C# Exam\Data\ExaminationSystem Solution\ExaminationSystem\obj\Debug\net6.0\ExaminationSystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\Back-End\Route\Eng Aliaa Tarek\Workshops\Manar Maher\4. C# Exam\Data\ExaminationSystem Solution\ExaminationSystem\obj\Debug\net6.0\ExaminationSystem.AssemblyInfoInputs.cache
+D:\Back-End\Route\Eng Aliaa Tarek\Workshops\Manar Maher\4. C# Exam\Data\ExaminationSystem Solution\ExaminationSystem\obj\Debug\net6.0\ExaminationSystem.AssemblyInfo.cs
+D:\Back-End\Route\Eng Aliaa Tarek\Workshops\Manar Maher\4. C# Exam\Data\ExaminationSystem Solution\ExaminationSystem\obj\Debug\net6.0\ExaminationSystem.csproj.CoreCompileInputs.cache
+D:\Back-End\Route\Eng Aliaa Tarek\Workshops\Manar Maher\4. C# Exam\Data\ExaminationSystem Solution\ExaminationSystem\obj\Debug\net6.0\ExaminationSystem.dll
+D:\Back-End\Route\Eng Aliaa Tarek\Workshops\Manar Maher\4. C# Exam\Data\ExaminationSystem Solution\ExaminationSystem\obj\Debug\net6.0\refint\ExaminationSystem.dll
+D:\Back-End\Route\Eng Aliaa Tarek\Workshops\Manar Maher\4. C# Exam\Data\ExaminationSystem Solution\ExaminationSystem\obj\Debug\net6.0\ExaminationSystem.pdb
+D:\Back-End\Route\Eng Aliaa Tarek\Workshops\Manar Maher\4. C# Exam\Data\ExaminationSystem Solution\ExaminationSystem\obj\Debug\net6.0\ExaminationSystem.genruntimeconfig.cache
+D:\Back-End\Route\Eng Aliaa Tarek\Workshops\Manar Maher\4. C# Exam\Data\ExaminationSystem Solution\ExaminationSystem\obj\Debug\net6.0\ref\ExaminationSystem.dll
