@@ -136,7 +136,7 @@ This C# console application allows instructors to create and administer exams, a
     taken time : 00:00:03.4511105
     ```
 
-## API Documentation
+## Documentation
 
 This project is a console application and doesn't expose an external API. The core logic is within the classes located in `ExaminationSystem Solution/ExaminationSystem/`.
 
